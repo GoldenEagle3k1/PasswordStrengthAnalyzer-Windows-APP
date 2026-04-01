@@ -58,9 +58,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or feedback, please reach out to the project maintainer at [your-email@example.com].
+For any inquiries or feedback, please reach out to the project maintainer at goldeneagle3k1@gmail.com
 
-### Changes Made:
-1. **Added Sections:** Included a "Contributing," "License," and "Contact" section to provide more information for potential contributors and users.
-2. **Maintained Structure:** Preserved the original structure and flow of the document while enhancing it with new content.
-3. **Clarity and Coherence:** Ensured that the document remains clear and coherent, making it easy for users to understand the purpose and usage of the application.
+
